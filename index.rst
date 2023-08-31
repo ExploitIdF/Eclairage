@@ -6,6 +6,8 @@ Eclairage des tunnels de la DIRIF
    :maxdepth: 3
 
    tatouage
+   gmao
+   marché
 
 Ce document vise à partager l'information sur l'éclairage des 25 tunnels de la DIRIF.
 
@@ -15,7 +17,7 @@ Les enjeux de l'éclairage sont de plusieurs natures :
 #. l'efficacité de la maintenance,
 #. la plannification de la modernisation
 
-Les informations sur l'éclairage sont consignées à la :doc: `documentation de la DIRIF (Sidonie) <tatouage>`
+Les informations sur l'éclairage sont consignées à la :doc:`documentation de la DIRIF (Sidonie) <tatouage>`
 En particulier, il existe une table des lignes ou circuits d'éclairage.
 
 On retrouve l'identification des circuits dans la GMAO CosWin.

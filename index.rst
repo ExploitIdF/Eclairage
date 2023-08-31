@@ -17,12 +17,13 @@ Les enjeux de l'éclairage sont de plusieurs natures :
 #. l'efficacité de la maintenance,
 #. la plannification de la modernisation
 
-Les informations sur l'éclairage sont consignées à la :doc:`documentation de la DIRIF (Sidonie) <tatouage>`
+Les informations sur l'éclairage sont consignées à la :doc:`documentation de la DIRIF (Sidonie) <tatouage>`.
+
 En particulier, il existe une table des lignes ou circuits d'éclairage.
 
-On retrouve l'identification des circuits dans la GMAO CosWin.
+On retrouve l'identification des circuits dans la :doc:`GMAO CosWin <gmao>`.
 
-Le CCTP du marché de maintenance de l'éclairage comporte une description du patrimoine.
+Le CCTP du :doc:`marché de maintenance de l'éclairage <marché>` comporte une description du patrimoine.
 
 Dans le cadre de ce marché, les entreprises SDEL et Paquet ont fait un état des lieux.
 

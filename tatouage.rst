@@ -22,4 +22,7 @@ La nature des champs est parfois assez bien décrite par leur nom, mais pour cer
     
     Le champ **local_depart** contient en principe le tatouage du local ou se trouve le TGBT avec souvent un nom de local en plus. 
 
+La table Sidonie est renseignée à plus de 80% mais ce n'est pas suffisant pour quelle puisse servir de référentiel pour la gestion de la maintenance sur tous les tunnels. Le champ **'nombre_lampe'** n'est renseigné qu'à 60% environ.
+
+Abdellah BENADJEMIA  (Chef de l'Unité Connaissance du Patrimoine Routier) a prévu de la compléter d'ici la fin de l'année 2023, en s'appuyant sur les documents détenus par son unité. A cette occasion la puissance des lampes sera ajoutée à la table.
 

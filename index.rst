@@ -5,18 +5,24 @@ Eclairage des tunnels de la DIRIF
    :hidden:
    :maxdepth: 3
 
-   création
+   tatouage
 
-Ce document vise à partager l'information sur l'éclairage des tunnels de la DIRIF.
-    
+Ce document vise à partager l'information sur l'éclairage des 25 tunnels de la DIRIF.
 
-Base Sidonie Tatouages
-----------------------
-Les 25 tunnels de la DIRIF comportent plus de 1000 circuits d'éclairage, chacun étant, en principe, identifié par un tatouage.
-On trouve sur Sidonie une table qui pour chaque corcuit contient les champs suivants :
-['SQ', 'TATOUAGE', 'AXE', 'SENS', 'LOCALISATION', 'TUNNEL', 'DESIGN_MAT',
-       'TYPE', 'LOCAL_DEPART', 'ARMOIRE_DEPART', 'LONGUEUR', 'NBR_LAMPE',
-       'MISE_EN_SERV', 'PROPRIETAIRE', 'AGER', 'EXPLOITANT', 'PROJET',
-       'OBSERVATION', 'ANCIEN_NOM']
+Les enjeux de l'éclairage sont de plusieurs natures :
+#. la sécurité des usagers,
+#. l'efficacité de la maintenance,
+#. la plannification de la modernisation
+
+Les informations sur l'éclairage sont consignées à la documentation de la DIRIF (Sidonie)
+En particulier, il existe une table des lignes ou circuits d'éclairage.
+
+On retrouve l'identification des circuits dans la GMAO CosWin.
+
+Le CCTP du marché de maintenance de l'éclairage comporte une description du patrimoine.
+
+Dans le cadre de ce marché, les entreprises SDEL et Paquet ont fait un état des lieux.
+
+Ce document analyse et croise ces sources de données et identifie des actions d'amélioration de la connaissance du patrimoine et de son état de fonctionnement.
 
 

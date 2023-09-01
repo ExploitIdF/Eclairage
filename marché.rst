@@ -21,9 +21,16 @@ La *Fiche N° 1* du CCTP définit la  **PHASE D’INITIALISATION** du marché. E
 
 **Mémoire technique**  
 
-Le titulaire s'est engagé a réaliser un ressencement détaillé des équipements, on peut lire notamment dans le mémoire :
+Le titulaire s'est engagé à réaliser un recensement détaillé des équipements, on peut lire notamment dans le mémoire :
 
-* Notre première phase de travail consistera à codifier les éléments constitutifs de l’éclairage et de
-la signalétique.
-
+* Notre première phase de travail consistera à codifier les éléments constitutifs de l’éclairage et de la signalétique.
+* Nous vous proposons de fournir des étiquettes auto collantes à poser directement sur les pieds-droits.
 * Les ouvrages et tous les éléments liés en amont (armoire de commande, réseau d’alimentation, …) ou en aval (luminaire, type de source, puissance, …,) constitueront votre base de données patrimoniales.
+
+**Livrables pour l'état des lieux**
+
+Le principal livrable de l'état des lieux est le fichier recensement des circuits 
+(:download:`Référencement Lot 1 pour DiRIF - 29.07.22-1<_static/Référencement Lot 1 pour DiRIF - 29.07.22-1.xlsx>`)
+
+
+

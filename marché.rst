@@ -10,5 +10,20 @@ Le tableau patrimoine, document qui décrit le nombre d'appareils d'éclairage p
 
 Après l'attribution du marché, des erreurs quantitatives ont été constatées dans la description du patrimoine à entretenir. Des ajustements sont proposés. Cela pourrait être l'occasion de compléter la table des circuits et de mesurer le patrimoine par tunnel sur une base solide.
 
+Etat des lieux
+--------------
+**CCTP** 
 
+La *Fiche N° 1* du CCTP définit la  **PHASE D’INITIALISATION** du marché. Elle prévoit notamment :
 
+* Inventaire des systèmes et équipements à maintenir par type ou modèle d’architecture/d’équipement, et validation du contenu du périmètre de départ ;
+* État des lieux du parc d’équipement d’éclairage tunnel avec détermination des taux de disponibilité des équipements par secteur
+
+**Mémoire technique**  
+
+Le titulaire s'est engagé a réaliser un ressencement détaillé des équipements, on peut lire notamment dans le mémoire :
+
+* Notre première phase de travail consistera à codifier les éléments constitutifs de l’éclairage et de
+la signalétique.
+
+* Les ouvrages et tous les éléments liés en amont (armoire de commande, réseau d’alimentation, …) ou en aval (luminaire, type de source, puissance, …,) constitueront votre base de données patrimoniales.

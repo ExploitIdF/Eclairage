@@ -11,7 +11,7 @@ La table comporte les champs suivants :
 
 Les champs ne sont pas renseignés de manière homogène et ils contiennent parfois des informations de natures différentes, selon les tunnels concernés.
   
-La nature des champs est parfois assez bien décrite par leur nom, mais pour certains ilnous a paru utile d'apporter les précisions suivantes.
+La nature de certains champs est assez bien décrite par leur nom, mais pour d'autres il est utile d'apporter les précisions suivantes:
 
     Le champ **sq** prend en principe la valeur 90 pour les circuits en exmploitation et les valeurs 26, 32 & 35 pour les circuits en projet ou en travaux. 
     Les entreprises des projets de Bobigny et de B5, par exemple, n'ont pas mis à jour la table de la documentation et leurs circuits apparaissent avec les codes 26 ou 35 alors qu'ils sont en exploitation.
@@ -24,7 +24,7 @@ La nature des champs est parfois assez bien décrite par leur nom, mais pour cer
     
     Le champ **local_depart** contient en principe le tatouage du local ou se trouve le TGBT avec souvent un nom de local en plus. 
 
-La table Sidonie est renseignée à plus de 80% mais ce n'est pas suffisant pour quelle puisse servir de référentiel pour la gestion de la maintenance sur tous les tunnels. Le champ **'nombre_lampe'** n'est renseigné qu'à 60% environ.
+La table Sidonie est renseignée à plus de 80% mais ce n'est pas suffisant pour qu'elle puisse servir de référentiel pour la gestion de la maintenance de tous les tunnels. Le champ **'nombre_lampe'** n'est renseigné qu'à 60% environ.
 
 Abdellah BENADJEMIA  (Chef de l'Unité Connaissance du Patrimoine Routier) a prévu de la compléter d'ici la fin de l'année 2023, en s'appuyant sur les documents détenus par son unité. A cette occasion la puissance des lampes sera ajoutée à la table.
 

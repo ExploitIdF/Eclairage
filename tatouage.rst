@@ -2,7 +2,7 @@ Base Sidonie Tatouages
 ========================
 Les 25 tunnels de la DIRIF comportent plus de 1000 circuits d'éclairage, chacun étant, en principe, identifié par un tatouage.
 Fermin CACERES(SGPR/DPPR/UCPR) a transmis une 
-:ref:`table de 1200 lignes<https://exploitidf.github.io/Eclairage/_static/table.xls>` 
+:download:`table de 1200 lignes<https://exploitidf.github.io/Eclairage/_static/table.xls>` 
 correspondant aux tatouages des circuits enregistrés dans la "documentation" de la DIRIF.
     
 La table comporte les champs suivants : 

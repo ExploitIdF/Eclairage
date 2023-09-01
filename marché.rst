@@ -6,9 +6,9 @@ Dans ce document, nous traitons uniquement du Lot 1.
 
 Patrimoine à entretenir
 -----------------------
-Le tableau patrimoine, document qui décrit le nombre d'appareils d'éclairage par tunnel, n'a pas été établi à partir des données de la documentation car celles-ci n'étaient pas assez complètes pour le faire. Pour certains tunnels cependant, la documentation est fidèle et les données du marché auraient pu être déduites de la table des circuits.
+Le tableau patrimoine, document qui décrit le nombre d'appareils d'éclairage par tunnel, n'a pas été établi à partir des données de la documentation car celles-ci n'étaient pas assez complètes pour le faire. Pour certains tunnels cependant, la documentation est fidèle et les données du marché, pour ces tunnels, auraient pu être déduites de la table des circuits.
 
-Après l'attribution du marché, des erreurs quantitatives ont été constatées dans la description du patrimoine à entretenir. Des ajustements sont proposés. Cela pourrait être l'occasion de compléter la table des circuits et de mesurer le patrimoine par tunnel sur une base solide.
+Après l'attribution du marché, des erreurs quantitatives ont été constatées dans la description du patrimoine à entretenir de certains tunnels. Des ajustements sont proposés. Cela pourrait être l'occasion de compléter la table des circuits et de mesurer le patrimoine par tunnel sur une base solide.
 
 Etat des lieux
 --------------
@@ -34,14 +34,14 @@ Le titulaire s'est engagé à réaliser un recensement détaillé des équipemen
 Le travail réalisé est en deçà des exigences du CCTP et des engagements du titulaire. La base de données annoncée n'a pas été produite.
 
 Le principal livrable de l'état des lieux est le fichier recensement des circuits 
-(:download:`Référencement Lot 1 pour DiRIF - 29.07.22-1<_static/Référencement Lot 1 pour DiRIF - 29.07.22-1.xlsx>`)
+( :download:`Référencement Lot 1 pour DiRIF - 29.07.22-1<_static/Référencement Lot 1 pour DiRIF - 29.07.22-1.xlsx>` )
 
 Ce document comporte des informations utiles sur les circuits mais il présente également des lacunes.
 
-Alors que le titulaire a indiqué qu'il intègrerait les données dans la GMAO, la table des circuits ne fait pas figurer leurs tatouages qui est l'index utilisé dans la GMAO et dans toute la documentation des équipements de la DIRIF.
+Alors que le titulaire avait indiqué dans son offre qu'il intègrerait les données dans la GMAO, la table des circuits ne fait pas figurer leurs tatouages. Le tatouage est l'index utilisé dans la GMAO et dans toute la documentation des équipements de la DIRIF. Il est un élément nécessaire à l'intégration des données à la GMAO.
 
 Le titulaire n'a pas exploité l'information qui figure dans la documentation de la DIRIF. Il aurait pourtant été utile de partir de cette information pour la vérifier et la compléter. 
 
-Il n'y a pas d'identification des luminaires et d'autres composants du système d'éclairage.
+Il n'y a pas dans les livrables d'identification des luminaires et d'autres composants du système d'éclairage. Le fonctionnement des luminaires n'est pas renseigné ce qui ne permet pas de rendre compte des taux de disponibilité par secteur comme demandé par le CCTP.
 
 

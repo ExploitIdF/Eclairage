@@ -17,7 +17,7 @@ Les enjeux de l'éclairage sont de plusieurs natures :
 #. l'efficacité de la maintenance,
 #. la plannification de la modernisation
 
-Les informations sur l'éclairage sont consignées à la :doc:`documentation de la DIRIF (Sidonie) <tatouage>`.
+Des informations sur l'éclairage sont consignées à la :doc:`documentation de la DIRIF (Sidonie) <tatouage>`.
 
 En particulier, il existe une table des lignes ou circuits d'éclairage.
 

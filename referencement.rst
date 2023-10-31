@@ -40,7 +40,7 @@ On a calculé par tunnel dans la table ci-dessous, le nombre de circuits pour le
 
 Pour le tunnel de La Courneuve, une seule ligne indique un nombre de luminaires. En examinant les 23 circuits associés à ce tunnel, on constate des valeurs significatives pour 3 circuits ce qui signifie probablement que plus d'un circuit était en service.
 
-Pour certaines lignes les valeurs des champs `Information départ` &	`régime du départ` ne sont pas cohérentes
+Pour certaines lignes les valeurs des champs *Information départ* &	*régime du départ* ne sont pas cohérentes, comme par exemple ci-dessous:
 
 .. csv-table::
    :header: Information départ,régime du départ

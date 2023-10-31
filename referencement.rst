@@ -18,7 +18,25 @@ On a calculé par tunnel, le nombre de circuit pour les quels le nombre de lumin
    :header: "Tunnel", "Nombre de circuits renseignés", "Nombre de circuits vides"
    :widths: 40, 30, 30
 
-   "Albatross", 10, 12
+   A14,201,21
+   A86/NANTERRE,84,1
+   AMBROISE PARE,40,0
+   BELLE RIVE,57,2
+   BICETRE,77,7
+   BOBIGNY,66,10
+   BOISSY,19,0
+   CHAMPIGNY,44,5
+   CHENNEVIERES,29,0
+   ITALIE,8,6
+   LA COURNEUVE,1,23
+   LANDY,23,17
+   LUMEN/NORTON,36,14
+   NEUILLY,16,0
+   NOGENT,59,3
+   ORLY,28,5
+   SAINT CLOUD,48,0
+   SEVINES,20,0
+   TAVERNY,32,0
 
 
 

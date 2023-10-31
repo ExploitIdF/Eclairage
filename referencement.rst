@@ -17,6 +17,8 @@ On a calculé par tunnel, le nombre de circuit pour les quels le nombre de lumin
 .. csv-table:: Présence du nombre de luminaire
    :header: "Tunnel", "Nombre de\\n circuits renseignés", "Nombre de circuits vides"
    :widths: 40, 10, 10
+   :width: 40%
+   :align:  "center"
 
    A14,201,21
    A86/NANTERRE,84,1

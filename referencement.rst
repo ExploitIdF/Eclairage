@@ -10,15 +10,14 @@ Les 20 tunnels renseignés dans cette table sont : ``'A14', 'A86/NANTERRE', 'AMB
 Les tunnels de Thiais, de Fontenay, de Fresnes et d'Antony qui étaient en travaux ne sont pas renseignés.
 Le tunnel du Landy a été renseigné sur la base de son état avant les travaux.
 
-Une partie des circuits n'est que partiellement renseignée. C'est en particulier le cas pour le nombre de luminaires. Certains tunnels tels que La Courneuve sont pa rticulièrement concernés.
-On a calculé par tunnel, le nombre de circuit pour les quels le nombre de luminaire est renseigné.
-
+Une partie des circuits n'est que partiellement renseignée. C'est en particulier le cas pour le nombre de luminaires. Certains tunnels tels que La Courneuve sont particulièrement mal renseignés.
+On a calculé par tunnel, le nombre de circuit pour les quels le nombre de luminaires est renseigné.
 
 .. csv-table:: Présence du nombre de luminaire
    :header: "Tunnel", "Nombre de\\n circuits renseignés", "Nombre de circuits vides"
    :widths: 40, 10, 10
-   :width: 40%
-   :align:  "center"
+   :width: 50
+   :align:  "right"
 
    A14,201,21
    A86/NANTERRE,84,1

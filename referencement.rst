@@ -11,9 +11,9 @@ Les tunnels de Thiais, de Fontenay, de Fresnes et d'Antony qui étaient en trava
 Le tunnel du Landy a été renseigné sur la base de son état avant les travaux.
 
 Une partie des circuits n'est que partiellement renseignée. C'est en particulier le cas pour le nombre de luminaires. Certains tunnels tels que La Courneuve sont particulièrement mal renseignés.
-On a calculé par tunnel, le nombre de circuit pour les quels le nombre de luminaires est renseigné.
+On a calculé par tunnel dans la table ci-dessous, le nombre de circuits pour lesquels le nombre de luminaires est renseigné.
 
-.. csv-table:: Présence du nombre de luminaire
+.. csv-table::
    :header: "Tunnel", "Nombre de circuits renseignés", "Nombre de circuits vides"
    :widths: 40, 10, 10
    :width: 30%
@@ -38,9 +38,17 @@ On a calculé par tunnel, le nombre de circuit pour les quels le nombre de lumin
    SEVINES,20,0
    TAVERNY,32,0
 
+Pour le tunnel de La Courneuve, une seule ligne indique un nombre de luminaires. En examinant les 23 circuits associés à ce tunnel, on constate des valeurs significatives pour 3 circuits ce qui signifie probablement que plus d'un circuit était en service.
 
+Pour certaines lignes les valeurs des champs `Information départ` &	`régime du départ` ne sont pas cohérentes
 
+.. csv-table::
+   :header: Information départ,régime du départ
+   :widths:  30, 10
 
+   NUIT TUNNEL SUD,	SECOURS
+   NUIT TUNNEL NORD,	SECOURS
+   ECLAIRAGE JOUR 1 TUNNEL SUD,	BASE
 
 
 
